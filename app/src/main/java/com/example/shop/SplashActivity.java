@@ -34,6 +34,6 @@ public class SplashActivity extends AppCompatActivity {
 //                finish()的作用的销毁此页面
                 finish();
             }
-        }, 3000);
+        }, 1500);
     }
 }
